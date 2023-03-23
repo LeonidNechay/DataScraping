@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><inst_name>Адміністрування, державного управління та професійного розвитку</inst_name><url>http://lpnu.ua/iadu</url></item>
+<item><inst_name>Архітектура та дизайн</inst_name><url>http://lpnu.ua/iard</url></item>
+<item><inst_name>Будівництво та інженерні системи</inst_name><url>http://lpnu.ua/ibis</url></item>
+<item><inst_name>Геодезія</inst_name><url>http://lpnu.ua/igdg</url></item>
+<item><inst_name>Гуманітарні та соціальні науки</inst_name><url>http://lpnu.ua/igsn</url></item>
+<item><inst_name>Економіка і менеджмент</inst_name><url>http://lpnu.ua/inem</url></item>
+<item><inst_name>Енергетика та системи керування</inst_name><url>http://lpnu.ua/iesk</url></item>
+<item><inst_name>Комп'ютерні науки</inst_name><url>http://lpnu.ua/ikni</url></item>
+<item><inst_name>Комп'ютерні технології, автоматика</inst_name><url>http://lpnu.ua/ikta</url></item>
+<item><inst_name>Механічна інженерія та транспорт</inst_name><url>http://lpnu.ua/imit</url></item>
+<item><inst_name>Підприємництво</inst_name><url>http://lpnu.ua/ippt</url></item>
+<item><inst_name>Право, психологія та інноваційна освіта</inst_name><url>http://lpnu.ua/ippo</url></item>
+<item><inst_name>Прикладна математика</inst_name><url>http://lpnu.ua/imfn</url></item>
+<item><inst_name>Сталий розвиток</inst_name><url>http://lpnu.ua/istr</url></item>
+<item><inst_name>Tелекомунікації, радіоелектроніка</inst_name><url>http://lpnu.ua/itre</url></item>
+<item><inst_name>Хімія та хімічні технології</inst_name><url>http://lpnu.ua/ikhkht</url></item>
+<item><inst_name>Освіта, культура та зв’язки з діаспорою</inst_name><url>http://lpnu.ua/miok</url></item>
+<item><dep_name> Кафедра автоматизованих систем управління </dep_name><url>https://lpnu.ua/asu </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра інформаційних систем та мереж</dep_name><url>https://lpnu.ua/ism </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра інформаційних технологій видавничої справи  </dep_name><url>https://lpnu.ua/itvs </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Навчально-науково-виробничий центр «Інформаційні технології та системи»</dep_name><url>https://lpnu.ua/nnvts </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра програмного забезпечення  </dep_name><url>https://lpnu.ua/pz </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра прикладної лінгвістики</dep_name><url>https://lpnu.ua/prl </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра систем автоматизованого проектування  </dep_name><url>https://lpnu.ua/sapr </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра систем штучного інтелекту</dep_name><url>https://lpnu.ua/sshi </url><institute>Комп'ютерні науки</institute></item>
+<item><dep_name> Кафедра адміністративного та фінансового менеджменту</dep_name><url>https://lpnu.ua/afm </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра державної політики та врядування</dep_name><url>https://lpnu.ua/dpv </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Німецько-Український освітній центр</dep_name><url>https://lpnu.ua/nuots </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра публічного управління та публічної служби</dep_name><url>https://lpnu.ua/pus </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра регіонального та місцевого розвитку</dep_name><url>https://lpnu.ua/rmr </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра теоретичної та прикладної економіки</dep_name><url>https://lpnu.ua/tpe </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра управління проектами</dep_name><url>https://lpnu.ua/up </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Центр професійної атестації та сертифікації</dep_name><url>https://lpnu.ua/tsentr-profesiinoi-atestatsii-ta-sertyfikatsii </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Центр підвищення кваліфікації публічних службовців</dep_name><url>https://lpnu.ua/tsentr-pidvyshchennia-kvalifikatsii-publichnykh-sluzhbovtsiv </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Центр підвищення кваліфікації фахівців</dep_name><url>https://lpnu.ua/tspkf </url><institute>Адміністрування, державного управління та професійного розвитку</institute></item>
+<item><dep_name> Кафедра вищої геодезії та астрономії</dep_name><url>https://lpnu.ua/vha </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра інженерної геодезії</dep_name><url>https://lpnu.ua/igd </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра геодезії</dep_name><url>https://lpnu.ua/kh </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра картографії та геопросторового моделювання</dep_name><url>https://lpnu.ua/khm </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра автомобільних доріг та мостів</dep_name><url>https://lpnu.ua/adm </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра вищої математики  </dep_name><url>https://lpnu.ua/vm </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра кадастру територій </dep_name><url>https://lpnu.ua/kdt </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра фотограмметрії та геоінформатики </dep_name><url>https://lpnu.ua/fhi </url><institute>Геодезія</institute></item>
+<item><dep_name> Кафедра будівельного виробництва</dep_name><url>https://lpnu.ua/bv </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра будівельних конструкцій та мостів </dep_name><url>https://lpnu.ua/bkm </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра гідротехніки та водної інженерії</dep_name><url>https://lpnu.ua/hvi </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра автоматизації та комп'ютерно-інтегрованих технологій</dep_name><url>https://lpnu.ua/avkt </url><institute>Енергетика та системи керування</institute></item>
+<item><dep_name> Кафедра загальної фізики  </dep_name><url>https://lpnu.ua/kzf </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра міжнародної інформації </dep_name><url>https://lpnu.ua/mi </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра нарисної геометрії та інженерної графіки  </dep_name><url>https://lpnu.ua/nhh </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра економіки підприємства та інвестицій </dep_name><url>https://lpnu.ua/epi </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра опору матеріалів та будівельної механіки </dep_name><url>https://lpnu.ua/ombm </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра електромехатроніки та комп'ютеризованих електромеханічних систем</dep_name><url>https://lpnu.ua/eks </url><institute>Енергетика та системи керування</institute></item>
+<item><dep_name> Кафедра електроенергетики та систем управління</dep_name><url>https://lpnu.ua/esu </url><institute>Енергетика та системи керування</institute></item>
+<item><dep_name> Кафедра теоретичної та загальної електротехніки</dep_name><url>https://lpnu.ua/tze </url><institute>Енергетика та системи керування</institute></item>
+<item><dep_name> Кафедра теплоенергетики, теплових та атомних електричних станцій</dep_name><url>https://lpnu.ua/ttae </url><institute>Енергетика та системи керування</institute></item>
+<item><dep_name> Кафедра обчислювальної математики і програмування  </dep_name><url>https://lpnu.ua/omp </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра прикладної математики</dep_name><url>https://lpnu.ua/pm </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра зовнішньоекономічної та митної діяльності</dep_name><url>https://lpnu.ua/zmd </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра маркетингу і логістики</dep_name><url>https://lpnu.ua/ml </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра менеджменту і міжнародного підприємництва</dep_name><url>https://lpnu.ua/mmp </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра менеджменту організацій</dep_name><url>https://lpnu.ua/mo </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра менеджменту персоналу та адміністрування</dep_name><url>https://lpnu.ua/mpa </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра архітектурного проектування</dep_name><url>https://lpnu.ua/ap </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра теплогазопостачання і вентиляції </dep_name><url>https://lpnu.ua/thv </url><institute>Будівництво та інженерні системи</institute></item>
+<item><dep_name> Кафедра прикладної фізики і наноматеріалознавства  </dep_name><url>https://lpnu.ua/pfn </url><institute>Прикладна математика</institute></item>
+<item><dep_name> Кафедра обліку та аналізу</dep_name><url>https://lpnu.ua/oa </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра фінансів</dep_name><url>https://lpnu.ua/fin </url><institute>Економіка і менеджмент</institute></item>
+<item><dep_name> Кафедра архітектурного проектування та інженерії</dep_name><url>https://lpnu.ua/api </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра архітектури та реставрації</dep_name><url>https://lpnu.ua/atr </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра дизайну архітектурного середовища</dep_name><url>https://lpnu.ua/das </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра адміністративного та інформаційного права</dep_name><url>https://lpnu.ua/aip </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра безпеки інформаційних технологій  </dep_name><url>https://lpnu.ua/bit </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра автомобільного транспорту</dep_name><url>https://lpnu.ua/at </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Проєкт «До вершин з РОШЕН»</dep_name><url>https://lpnu.ua/do-vershyn-z-roshen </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра дизайну та основ архітектури</dep_name><url>https://lpnu.ua/doa </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра містобудування</dep_name><url>https://lpnu.ua/mb </url><institute>Архітектура та дизайн</institute></item>
+<item><dep_name> Кафедра журналістики та засобів масової комунікації</dep_name><url>https://lpnu.ua/zhzmk </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра кримінального права і процесу  </dep_name><url>https://lpnu.ua/kpp </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра педагогіки та інноваційної освіти </dep_name><url>https://lpnu.ua/pio </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра теорії пpaвa та конституціоналізму</dep_name><url>https://lpnu.ua/tpk </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра електронних обчислювальних машин  </dep_name><url>https://lpnu.ua/eom </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра захисту інформації  </dep_name><url>https://lpnu.ua/zi </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра залізничного транспорту</dep_name><url>https://lpnu.ua/zt </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра матеріалознавства та інженерії матеріалів</dep_name><url>https://lpnu.ua/mim </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра нафтогазової інженерії та зварювання</dep_name><url>https://lpnu.ua/nhiz </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра економіки і маркетингу </dep_name><url>https://lpnu.ua/ekm </url><institute>Підприємництво</institute></item>
+<item><dep_name> Кафедра органічної хімії  </dep_name><url>https://lpnu.ua/oh </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра технології біологічно активних сполук, фармації та біотехнології  </dep_name><url>https://lpnu.ua/tbsfb </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра технології органічних продуктів</dep_name><url>https://lpnu.ua/top </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра фізичної, аналітичної та загальної хімії</dep_name><url>https://lpnu.ua/fazh </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра хімічної інженерії</dep_name><url>https://lpnu.ua/hi </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра хімічної технології переробки нафти та газу  </dep_name><url>https://lpnu.ua/khtnh </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра хімії і технології неорганічних речовин  </dep_name><url>https://lpnu.ua/htnr </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра електронних засобів інформаційно-комп’ютерних технологій  </dep_name><url>https://lpnu.ua/ezikt </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра теоретичної та практичної психології</dep_name><url>https://lpnu.ua/tpp </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Центр Британського Права</dep_name><url>https://lpnu.ua/tsbp </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Центр безоплатної правової та психологічної допомоги населенню Інституту права, психології та інноваційної освіти Національного університету «Львівська політехніка»</dep_name><url>https://lpnu.ua/cbppd </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Центр інноваційних освітніх технологій</dep_name><url>https://lpnu.ua/ciot </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Центр правових досліджень ґендерної рівності</dep_name><url>https://lpnu.ua/tspdgr </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра цивільного права та процесу</dep_name><url>https://lpnu.ua/tspp </url><institute>Право, психологія та інноваційна освіта</institute></item>
+<item><dep_name> Кафедра інформаційно-вимірювальних технологій  </dep_name><url>https://lpnu.ua/ivt </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра інтелектуальної мехатроніки і роботики</dep_name><url>https://lpnu.ua/imr </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра комп'ютеризованих систем автоматики  </dep_name><url>https://lpnu.ua/ksa </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Кафедра спеціалізованих комп'ютерних систем  </dep_name><url>https://lpnu.ua/sks </url><institute>Комп'ютерні технології, автоматика</institute></item>
+<item><dep_name> Навчальний центр комп’ютерної діагностики транспортних засобів «Львівська політехніка - Академія Бош»</dep_name><url>https://lpnu.ua/nts-kdtz </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра проектування машин та автомобільного інжинірингу</dep_name><url>https://lpnu.ua/pmai </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра інформаційних систем і технологій</dep_name><url>https://lpnu.ua/ist </url><institute>Підприємництво</institute></item>
+<item><dep_name> Кафедра фінансів, обліку і аналізу </dep_name><url>https://lpnu.ua/foa </url><institute>Підприємництво</institute></item>
+<item><dep_name> Кафедра хімічної технології переробки пластмас</dep_name><url>https://lpnu.ua/htpp </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра хімічної технології силікатів</dep_name><url>https://lpnu.ua/hts </url><institute>Хімія та хімічні технології</institute></item>
+<item><dep_name> Кафедра електронної інженерії</dep_name><url>https://lpnu.ua/eli </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра напівпровідникової електроніки  </dep_name><url>https://lpnu.ua/npe </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра радіоелектронних пристроїв та систем  </dep_name><url>https://lpnu.ua/reps </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра робототехніки та інтегрованих технологій машинобудування</dep_name><url>https://lpnu.ua/ritm </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра технічної механіки та динаміки машин</dep_name><url>https://lpnu.ua/tmdm </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра транспортних технологій</dep_name><url>https://lpnu.ua/tt </url><institute>Механічна інженерія та транспорт</institute></item>
+<item><dep_name> Кафедра телекомунікацій</dep_name><url>https://lpnu.ua/tk </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра теоретичної радіотехніки та радіовимірювання</dep_name><url>https://lpnu.ua/trr </url><institute>Tелекомунікації, радіоелектроніка</institute></item>
+<item><dep_name> Кафедра екологічної безпеки та природоохоронної діяльності</dep_name><url>https://lpnu.ua/ebpd </url><institute>Сталий розвиток</institute></item>
+<item><dep_name> Кафедра іноземних мов</dep_name><url>https://lpnu.ua/im </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра екології та збалансованого природокористування</dep_name><url>https://lpnu.ua/ezp </url><institute>Сталий розвиток</institute></item>
+<item><dep_name> Кафедра підприємництва та екологічної експертизи товарів</dep_name><url>https://lpnu.ua/peet </url><institute>Сталий розвиток</institute></item>
+<item><dep_name> Кафедра туризму</dep_name><url>https://lpnu.ua/tur </url><institute>Сталий розвиток</institute></item>
+<item><dep_name> Кафедра цивільної безпеки</dep_name><url>https://lpnu.ua/tsb </url><institute>Сталий розвиток</institute></item>
+<item><dep_name> Кафедра історії, музеєзнавства та культурної спадщини</dep_name><url>https://lpnu.ua/imks </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра філософії</dep_name><url>https://lpnu.ua/kf </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Міжнародний центр професійного партнерства «Інтеграція» - International “Integration” Centre for Professional Partnerships </dep_name><url>https://lpnu.ua/integration </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Науково-аналітичний центр політичних досліджень «Вектор»</dep_name><url>https://lpnu.ua/nats-pd-vektor </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра політології та міжнародних відносин</dep_name><url>https://lpnu.ua/pmv </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра соціальних комунікацій та інформаційної діяльності</dep_name><url>https://lpnu.ua/skid </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра соціології та соціальної роботи</dep_name><url>https://lpnu.ua/sr </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра української мови</dep_name><url>https://lpnu.ua/um </url><institute>Гуманітарні та соціальні науки</institute></item>
+<item><dep_name> Кафедра фізичного виховання</dep_name><url>https://lpnu.ua/fv </url><institute>Гуманітарні та соціальні науки</institute></item>
+</items>
