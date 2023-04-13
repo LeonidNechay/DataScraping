@@ -19,7 +19,6 @@ class LpnuSpider(scrapy.Spider):
             a = li.find("a")
             inst_name = a.find(string=True, recursive=False)
             inst_url = f"http://lpnu.ua{a.get('href')}"
-            
             yield InstituteItem(
                 inst_name = inst_name,
                 url = inst_url
@@ -36,9 +35,9 @@ class LpnuSpider(scrapy.Spider):
         soup = BeautifulSoup(response.body,  "html.parser")
 
         dep_list = soup.find(class_="block-views-blockgroup-subgroups-block-2")
-        inst_img = soup.find(class_="img-responsive").get("src")
+        inst_img = f"https://lpnu.ua{soup.find(name='img', typeof='foaf:Image').get('src')}"
         yield InstituteItem(
-            img_url = [f"https://lpnu.ua{inst_img}"]
+            image_urls = [inst_img]
         )
         time.sleep(0.01)
         if dep_list:

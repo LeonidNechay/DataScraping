@@ -64,8 +64,11 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    "lab3.pipelines.Lab3Pipeline": 300,
-   "scrapy.pipelines.images.ImagesPipeline": 100,
+   "scrapy.pipelines.images.ImagesPipeline": 1,
 }
+
+IMAGES_STORE = "./img"
+IMAGES_EXPIRES = 0
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -93,5 +96,4 @@ REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
-IMAGES_STORE = './img'
-IMAGES_EXPIRES = 0
+
