@@ -1,0 +1,15 @@
+setup.py
+lab6/SeleniumRequest.py
+lab6/__init__.py
+lab6/items.py
+lab6/middlewares.py
+lab6/pipelines.py
+lab6/settings.py
+lab6.egg-info/PKG-INFO
+lab6.egg-info/SOURCES.txt
+lab6.egg-info/dependency_links.txt
+lab6.egg-info/entry_points.txt
+lab6.egg-info/top_level.txt
+lab6/spiders/__init__.py
+lab6/spiders/anime.py
+lab6/spiders/lpnu.py
